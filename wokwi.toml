@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\embarcatech-projeto-final.hex'
+elf = 'build\embarcatech-projeto-final.elf'
